@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **web devlopment**
 
-- I’m currently learning **WEB DEVELOPMENT AND DATA SCIENCE**
+- I’m currently learning **data science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
