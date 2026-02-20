@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamaher15&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamaher15" /> </p>
 
-- 🔭 I’m currently working on* Web Devlopment*
-
-- 🔭 I’m currently learning* Data Analyst,Analtics,Power Bi*
+- 🔭 I’m currently learning* Data Science,Analtics,Power Bi,Tablu*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
